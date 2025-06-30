@@ -1,0 +1,9 @@
+name: AutoShaft
+main: com.example.autoshaft.AutoShaftPlugin
+version: 1.0
+api-version: 1.16
+depend: [HolographicDisplays]
+commands:
+  autoshaft:
+    description: Управление автошахтой
+    usage: /autoshaft reset <имя>
